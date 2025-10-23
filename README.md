@@ -37,6 +37,6 @@ Promote — Share on Twitter, Reddit, dev.to, or relevant communities. Pin the r
 Example Sponsor line (in README):
 
 If you enjoy this project and want to support development, please consider sponsoring me on GitHub: https://github.com/sponsors/ataullamanah
-License
 
+License
 MIT — change author & year as you like.
